@@ -43,7 +43,7 @@ Edit `beegaraOuthana` block in `editable/wedding-data.js`:
 
 ### Images
 Replace files directly in `editable/assets/` or update paths in `editable/wedding-data.js`:
-- Couple watercolour hero illustration: `editable/assets/couple-hero.png`
+- Couple hero photo: `editable/assets/couple-hero.png`
 - Groom photo: `editable/assets/groom.png`
 - Bride photo: `editable/assets/bride.png`
 - Map preview image: `editable/assets/map-preview.jpg`
