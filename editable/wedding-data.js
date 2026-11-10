@@ -51,6 +51,8 @@ window.WEDDING_DATA = {
 
   footerNote: "Awaiting your gracious presence with family & friends — Smt. Shanthamma & Sri Ravi B.K.",
 
+  bgm: "./editable/assets/bgm.mp3",
+
   images: {
     coupleHero: "./editable/assets/couple-hero.png",
     mapPreview: "./editable/assets/map-preview.jpg",

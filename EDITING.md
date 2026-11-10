@@ -41,12 +41,13 @@ Edit `beegaraOuthana` block in `editable/wedding-data.js`:
 - `time`: `"12:00 PM Onwards"`
 - `venue`: `"Groom's Residence, Bananduru, Bidadi Hobli, Bengaluru South - 562109"`
 
-### Images
+### Images & Audio
 Replace files directly in `editable/assets/` or update paths in `editable/wedding-data.js`:
 - Couple hero photo: `editable/assets/couple-hero.png`
 - Groom photo: `editable/assets/groom.png`
 - Bride photo: `editable/assets/bride.png`
 - Map preview image: `editable/assets/map-preview.jpg`
+- Background music (BGM): `editable/assets/bgm.mp3` (configured via `bgm` in `editable/wedding-data.js`)
 
 ---
 
