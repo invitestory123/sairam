@@ -39,7 +39,7 @@ Edit `beegaraOuthana` block in `editable/wedding-data.js`:
 - `title`: `"Beegara Outhana Kuta"`
 - `date`: `"Sunday, 13th December 2026"`
 - `time`: `"12:00 PM Onwards"`
-- `venue`: `"Groom's Residence, Bananduru"`
+- `venue`: `"Groom's Residence, Bananduru, Bidadi Hobli, Bengaluru South - 562109"`
 
 ### Images
 Replace files directly in `editable/assets/` or update paths in `editable/wedding-data.js`:

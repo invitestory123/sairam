@@ -11,7 +11,7 @@ window.WEDDING_DATA = {
       name: "Koushik",
       fullName: "Chi. Ry. Koushik B. R.",
       line: "Son of Smt. Shanthamma & Sri Ravi B.K.",
-      note: "B.E., L.L.B • Grandson of Late Smt. Jayamma & Late Sri General Kariyappa • Bananduru, Bidadi Hobli, Bengaluru - 562109",
+      note: "B.E., L.L.B • Grandson of Late Smt. Jayamma & Late Sri General Kariyappa • Bananduru, Bidadi Hobli, Bengaluru South - 562109",
       photo: "./editable/assets/groom.png",
     },
     bride: {
@@ -46,7 +46,7 @@ window.WEDDING_DATA = {
     title: "Beegara Outhana Kuta",
     date: "Sunday, 13th December 2026",
     time: "12:00 PM Onwards",
-    venue: "Groom's Residence, Bananduru",
+    venue: "Groom's Residence, Bananduru, Bidadi Hobli, Bengaluru South - 562109",
   },
 
   footerNote: "Awaiting your gracious presence with family & friends — Smt. Shanthamma & Sri Ravi B.K.",
